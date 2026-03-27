@@ -18,7 +18,7 @@ function Projects() {
       tech: ['Java', 'OOP'],
       emoji: '🎓',
       color: '#6e134b',
-      link: '#',
+      link: 'my-portfolio-eta-murex-45.vercel.app',
     },
     {
       title: 'Cake by Duck Website',
