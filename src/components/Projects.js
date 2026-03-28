@@ -5,17 +5,17 @@ function Projects() {
     {
       title: 'Bill Vault App',
       description:
-        'A responsive personal portfolio website built with React to showcase my skills and projects.',
-      tech: ['React', 'CSS', 'JavaScript'],
-      emoji: '🌐',
+        'BillVault is an AI-powered smart bill management and expense insight mobile application designed for individuals and small businesses in Sri Lanka. It addresses the common problem of misplaced and disorganised paper bills, receipts, and warranty cards that result in financial losses for everyday users. The system enables users to scan and upload bills using OCR technology, which automatically extracts and categorises key information while securely storing all documents in the cloud. Additional features include warranty tracking, expense analytics, automated e-bill importing, secure document sharing, and a gamification system to encourage consistent user engagement.',
+      tech: [],
+      emoji: '🧾',
       color: '#6e134b',
       link: '#',
     },
     {
       title: 'Personal Portfolio',
       description:
-        'A Java-based desktop application to manage student records, grades, and attendance.',
-      tech: ['Java', 'OOP'],
+        'A responsive personal portfolio website built with React to showcase my skills and projects.',
+      tech: ['React', 'CSS', 'JavaScript'],
       emoji: '🎓',
       color: '#6e134b',
       link: 'my-portfolio-eta-murex-45.vercel.app',
@@ -25,7 +25,7 @@ function Projects() {
       description:
         'A Python app that fetches real-time weather data using an API and displays it in a clean UI.',
       tech: ['Python', 'API'],
-      emoji: '🌤️',
+      emoji: '🎂',
       color: '#6e134b',
       link: '#',
     },
