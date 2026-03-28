@@ -23,8 +23,8 @@ function Projects() {
     {
       title: 'Cake by Duck Website',
       description:
-        'A Python app that fetches real-time weather data using an API and displays it in a clean UI.',
-      tech: ['Python', 'API'],
+        'Ongoing',
+      tech: [''],
       emoji: '🎂',
       color: '#6e134b',
       link: '#',
